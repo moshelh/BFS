@@ -1,0 +1,13 @@
+C:\Users\moshe\source\repos\BFS\BFS\obj\Debug\netcoreapp3.1\BFS.csprojAssemblyReference.cache
+C:\Users\moshe\source\repos\BFS\BFS\obj\Debug\netcoreapp3.1\BFS.csproj.CoreCompileInputs.cache
+C:\Users\moshe\source\repos\BFS\BFS\obj\Debug\netcoreapp3.1\BFS.AssemblyInfoInputs.cache
+C:\Users\moshe\source\repos\BFS\BFS\obj\Debug\netcoreapp3.1\BFS.AssemblyInfo.cs
+C:\Users\moshe\source\repos\BFS\BFS\bin\Debug\netcoreapp3.1\BFS.exe
+C:\Users\moshe\source\repos\BFS\BFS\bin\Debug\netcoreapp3.1\BFS.deps.json
+C:\Users\moshe\source\repos\BFS\BFS\bin\Debug\netcoreapp3.1\BFS.runtimeconfig.json
+C:\Users\moshe\source\repos\BFS\BFS\bin\Debug\netcoreapp3.1\BFS.runtimeconfig.dev.json
+C:\Users\moshe\source\repos\BFS\BFS\bin\Debug\netcoreapp3.1\BFS.dll
+C:\Users\moshe\source\repos\BFS\BFS\bin\Debug\netcoreapp3.1\BFS.pdb
+C:\Users\moshe\source\repos\BFS\BFS\obj\Debug\netcoreapp3.1\BFS.dll
+C:\Users\moshe\source\repos\BFS\BFS\obj\Debug\netcoreapp3.1\BFS.pdb
+C:\Users\moshe\source\repos\BFS\BFS\obj\Debug\netcoreapp3.1\BFS.genruntimeconfig.cache
